@@ -41,7 +41,6 @@ Customize your font's identifying information here:
 # --- Metadata ---
 family_name = 'My Custom Font Family'
 style_name = 'Regular'
-base_name = 'MyCustomFont-Regular' # Technical Name (e.g., FontName-Style)
 author_name = "Your Name"
 # ... (Other metadata like version_number, copyright)
 ```
