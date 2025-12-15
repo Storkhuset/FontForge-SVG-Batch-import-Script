@@ -8,12 +8,12 @@ from datetime import datetime
 
 # --- File and Naming Configuration ---
 # Directory where the script is located and SVGs are stored
-svg_dir = Path('/Users/magnush/Documents/Font design/Pivemo Mouse Handwritten/Regular/')
+svg_dir = Path('/Path/to/your/SVG/files/')
 
 # --- Metadata ---
-family_name = 'Pivemo Mouse Handwritten'
-style_name = 'Regular'
-base_name = f"{family_name.replace(' ', '')}-Regular" # Technical Name: FamilyName-StyleName
+family_name = 'Readable Font Name'
+style_name = 'Regular' # Font weight (Regular, Light, Bold, etc)
+base_name = f"{family_name.replace(' ', '')}-{style_name}" # Technical Name: FamilyName-StyleName
 version_number = "1.000"
 version = "Version " + version_number
 italic_angle = 0
