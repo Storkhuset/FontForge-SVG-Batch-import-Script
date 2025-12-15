@@ -17,7 +17,7 @@ base_name = f"{family_name.replace(' ', '')}-{style_name}" # Technical Name: Fam
 version_number = "1.000"
 version = "Version " + version_number
 italic_angle = 0
-author_name = "Magnus Hållberg Pivemo AB"
+author_name = "Your Name and/or Organization"
 copyright = "Copyright (c) 2025 {author_name}, all rights reserved."
 
 # --- Layout Configuration ---
